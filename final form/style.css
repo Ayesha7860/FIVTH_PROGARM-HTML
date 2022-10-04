@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: rgb(163, 210, 244);
+}
+
+#container1{
+    border: 2px solid white;
+    width: 50%;
+    border-radius: 6px;
+    
+
+}
+
+.box1 h1{
+    text-transform: capitalize;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: white;
+    margin: -1px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+
+}
+.box1 input {
+    width: 25%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: gray;
+    
+    
+
+}
+.box1 label{
+    text-transform: capitalize;
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    background-color: white;
+    margin: -1px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    
+}
+.box2 label{
+    font-size: x-large;
+    text-transform: capitalize;
+}
+.box2 input{
+    width: 23%;
+    position: relative;
+    bottom: -16px;
+}
+.box3{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid white;
+    background-color: white;
+    margin: -1px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    font-size:large;
+    
+
+
+}
+.box3 input{
+    width: 30%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: grey;
+
+}
+.box4{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    background-color: white;
+    margin: -1px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+
+}
+.box4 input{
+    position: relative;
+    bottom: -15px;
+    width: 25%;
+}
+.box4 label{
+    font-size: large;
+
+}
+.box5{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid white;
+    background-color: white;
+    margin: -1px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+
+}
+.box5 input{
+    width: 30%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: grey;
+
+}
+button a{
+    color: royalblue;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+button{
+    background-color: rgb(163, 210, 244);
+    border-color: rgb(163, 210, 244);
+}
+
+    
+
+.box6{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -20px;
+    margin-left: 440px;
+}
+.box6 h5{
+    color: royalblue;
+    text-transform: capitalize;
+}
+    
+    
+    
+.save{
+    background-color: royalblue;
+    margin-bottom: 100px;
+}
+
+    
+
+
+    
+
+
+
+
